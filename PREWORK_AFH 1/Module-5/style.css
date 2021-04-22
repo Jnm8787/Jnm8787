@@ -1,0 +1,27 @@
+h1 { 
+    text-align: center;
+    color: blue; font-size: 40px;
+}
+h2 {
+    font-family: "copperplate",'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+body {background-color: lightgray;}
+.pink-text{
+    color:pink;
+}
+
+.blue-text{color:blue;}
+    
+.green-text{color:green;}
+
+.tiny-text{
+    font-size: smaller;
+}
+
+.cma{
+    font-size: large;
+    color:orange;
+    font-weight: bold;
+}
+
